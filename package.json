@@ -1,0 +1,24 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "botti",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^13.5.1",
+    "dotenv": "^10.0.0",
+    "node.js": "^0.0.1-security"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HenriPigg/DiscordBot.git"
+  },
+  "author": "Henri Pigg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HenriPigg/DiscordBot/issues"
+  },
+  "homepage": "https://github.com/HenriPigg/DiscordBot#readme"
+}
